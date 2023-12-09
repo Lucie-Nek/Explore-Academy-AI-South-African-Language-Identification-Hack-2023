@@ -5,7 +5,8 @@ South Africa is a multicultural society that is characterised by its rich lingui
 The country is multilingual with 11 official languages, each of which is guaranteed equal status. Most South Africans are multilingual and able to speak at least two or more of the official languages.
 From South African Government.
 
-![Alt text](image.png)
+![image](https://github.com/Lucie-Nek/Explore-Academy-AI-South-African-Language-Identification-Hack-2023/assets/114951963/e7081f33-484e-440d-858e-d02fe259cb98)
+
 
 With such a multilingual population, it is only obvious that our systems and devices also communicate in multi-languages.
 
